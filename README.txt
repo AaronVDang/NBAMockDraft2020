@@ -1,8 +1,5 @@
 NBA Mock Draft Simulator README 
 
-By: Aaron Dang, Justin Thai
-CS 49C, Section 1
-23 November 2020
 
 ********************************************************************************************
 
